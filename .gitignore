@@ -1,0 +1,14 @@
+# Quartus Prime generated databases — large binary files, not needed in version control
+db/
+incremental_db/
+output_files/
+
+# Quartus workspace state (user-specific)
+*.qws
+
+# Pin model dump (generated)
+c5_pin_model_dump.txt
+
+# OS files
+Thumbs.db
+.DS_Store
